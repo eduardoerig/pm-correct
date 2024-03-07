@@ -1,4 +1,4 @@
-# pm-correct
+
 
 void main() {
 /*
@@ -52,11 +52,15 @@ void main() {
   print(peso == peso2);
   print(peso == peso2);
 */
-List<int> numeros = [1,2,3,4,5,6];
-  List<String> nomes = ['joão, Pedro, Lucas']
-  print('numeros[0], ');
+List<int> idades = [15,16,17,18,19,20];
+  List<String> nomes = ["joão", "Eduardo", "Lucas", "Pedro"];
+  List<String> profissao = ["Agricultor", "Gerente", "Bancário","Aluno"];
+  print('${nomes[1]} tem ${idades[0]} anos, sua profissão é: ${profissao[3]} ');
  
 }
+
+
+
 
 
 
