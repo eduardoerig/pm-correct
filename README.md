@@ -95,6 +95,43 @@ List<int> idades = [15,16,17,18,19,20];
 
 
 
+void main() {
+Map<String,dynamic> nomeIdade = {
+  "Eduardo": 15
+};
+  
+  Map<dynamic,dynamic> maePai = {
+  "mãe": "Agrid", 
+  "pai": "carlos",
+    
+    Map<dynamic,dynamic> altura = {
+  "mãe": "Agrid", 
+  "pai": "carlos",
+    
+      Map<dynamic,dynamic> endereço = {
+  "mãe": "Agrid", 
+  "pai": "carlos",
+        
+        Map<dynamic,dynamic> endereço = {
+  "mãe": "Agrid", 
+  "pai": "carlos",
+          
+          Map<dynamic,dynamic> estadocivil = {
+  "mãe": "Agrid", 
+  "pai": "carlos",
+            
+            Map<dynamic,dynamic> bochinho = {
+  "mãe": "Agrid", 
+  "pai": "carlos",
+            
+        
+        
+};
+  print(nomeIdade);
+  print(maePai);
+  
+
+}
 
 
 
